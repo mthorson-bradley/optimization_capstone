@@ -1,1 +1,1 @@
-# optimization_capstone
+# Bradley University Optimization Captstone Package
